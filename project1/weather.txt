@@ -1,0 +1,10 @@
+Log for weather in Lviv this week
+
+     Day / Night
+Mon: 19°C  4°C
+Tue: 17°C  8°C
+Wed: 16°C  11°C
+Thu: 15°C  10°C
+Fri: 16°C  8°C
+Sat: 19°C  10°C
+Sun: 19°C  10°C
